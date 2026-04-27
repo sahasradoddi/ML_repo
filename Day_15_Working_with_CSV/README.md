@@ -5,24 +5,24 @@ This project demonstrates how to work with CSV (Comma-Separated Values) files us
 
 The goal of this project is to build a strong foundation in handling structured data using Python, which is essential for data analysis and machine learning tasks.
 
-📁 Datasets Used
+#📁 Datasets Used
 zomato.csv – Restaurant data including ratings, locations, and cuisines
 movie_titles_metadata.tsv – Movie-related metadata dataset
-⚙️ Technologies Used
+#⚙️ Technologies Used
 Python 🐍
 Jupyter Notebook 📓
 Libraries:
 pandas
-numpy (if used)
-csv module (if used)
-🔍 Key Concepts Covered
+csv module 
+#🔍 Key Concepts Covered
 Reading CSV and TSV files
 Understanding delimiters
 Data cleaning and preprocessing
 Handling missing values
 Filtering and sorting data
 Basic data analysis using pandas
-🧠 What I Learned
+
+#🧠 What I Learned
 How to load and explore datasets using pandas.read_csv()
 Difference between CSV and TSV formats
 How to handle large datasets efficiently
