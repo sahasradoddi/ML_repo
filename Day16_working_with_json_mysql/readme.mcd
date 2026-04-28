@@ -1,1 +1,59 @@
+# 📊 Data Handling with Python, MySQL & JSON
 
+## 📌 Overview
+This repository contains my daily learning progress in data handling using Python.  
+Today, I worked with **JSON data**, **MySQL datasets**, and integrated them with **Pandas** for analysis. I also learned how to connect a local database setup (XAMPP + phpMyAdmin) with Jupyter Notebook.
+
+---
+
+## 🛠️ Tools & Technologies
+- Python 🐍
+- Pandas 📊
+- JSON
+- MySQL
+- XAMPP (Apache + MySQL)
+- phpMyAdmin
+- Jupyter Notebook
+
+---
+
+## 📚 What I Learned
+
+### 1. JSON Handling
+- Reading JSON data into Pandas
+- Converting JSON structures into DataFrames
+
+### 2. MySQL with Pandas
+- Connecting MySQL database to Python
+- Running SQL queries using Pandas
+- Loading SQL data into DataFrames
+
+### 3. Database Integration
+- Setup of XAMPP for local MySQL server
+- Managing databases using phpMyAdmin
+- Connecting Jupyter Notebook with MySQL
+
+---
+
+## 🔗 Workflow Practiced
+    JSON / MySQL Database → Pandas DataFrame → Data Analysis in Python
+
+
+---
+
+## 🎯 Outcome
+- Understood how to extract and manipulate data from different sources
+- Learned integration between databases and Python
+- Built foundation for data analysis and machine learning pipelines
+
+---
+
+## 🚀 Next Steps
+- Data cleaning and preprocessing in Pandas
+- Advanced SQL joins
+- Building ML models using real-world datasets
+
+---
+
+## 📅 Day 16 Learning
+This is part of my consistent learning journey in Data Science and Machine Learning.
