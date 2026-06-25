@@ -62,6 +62,8 @@ SimpleImputer
 OneHotEncoder
 ColumnTransformer
 Data Preprocessing
-My Takeaway
+
+
+** My Takeaway **
 
 ColumnTransformer makes preprocessing structured and scalable. Instead of applying transformations separately, we can manage everything in one place, which becomes very useful for real-world machine learning pipelines.
